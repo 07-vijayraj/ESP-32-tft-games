@@ -80,6 +80,7 @@ The projects demonstrate how embedded systems can handle **real-time graphics, b
 ### 🔊 Buzzer
 
 - Buzzer to ESP 32 Connections
+  
 | buzzer            | ESP32                                                                |  
 | ----------------- | ------------------------------------------------------------------ |
   |   VCC | Pin 15 |
