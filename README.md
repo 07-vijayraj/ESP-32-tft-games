@@ -92,6 +92,7 @@ The projects demonstrate how embedded systems can handle **real-time graphics, b
 
 
 - Buttoms to ESP 32 Connections (**Ball Catcher Game**)
+  
 | Buttoms           | ESP32                                                                |  
 | ----------------- | ------------------------------------------------------------------ |
   |  Left  | Pin 12 |
@@ -99,6 +100,7 @@ The projects demonstrate how embedded systems can handle **real-time graphics, b
 |Reset  | Pin 13    |
 
 - Buttoms to ESP 32 Connections (**Super ESP Mario Game**)
+  
 | Buttoms           | ESP32                                                                |  
 | ----------------- | ------------------------------------------------------------------ |
   |  Left  | Pin 12 |
